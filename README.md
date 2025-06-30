@@ -2,7 +2,7 @@
 
 **Treqo** is a fast, reliable, and feature-packed Discord bot built to enhance your server with moderation tools, fun mini-games, music playback, and utility commands — all in one seamless experience.
 
-![Treqo Banner](https://treqobot.xyz/treqo-banner.jpg)
+![Treqo Banner](https://cdn.discordapp.com/attachments/1017928207707672596/1389065678819954708/CompressJPEG.Online_img250x250.jpg?ex=686343b9&is=6861f239&hm=dfe9e176c335efd23240e417828aede24b328087529a2c2cc00bce0049dbcf51&)
 
 ---
 
